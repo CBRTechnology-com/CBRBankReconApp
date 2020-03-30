@@ -1,0 +1,38 @@
+{
+  "id": "aef99fb8-1dcd-4157-92e8-c32260c7fb34",
+  "name": "CBR Bank Recon App",
+  "publisher": "CBR Technology Corp",
+  "version": "1.0.0.19",
+  "brief": "",
+  "description": "Bank reconciliation APP help user to edit the Bank Acc. Ledger Entry while doing the Bank reconcilation process and help you to rest the values of three field : Statement No, Statement Line No. and Statement Status",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 80000,
+      "to": 89999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://CBRBankReconApp.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
